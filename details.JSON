@@ -1,0 +1,50 @@
+[
+    {
+        "name":"Network Security",
+        "id":1,
+        "logo":"https://i.ibb.co/cyqkCJx/heading-border.png",
+        "image":"https://i.ibb.co/Jxq3S7g/24-hours.png",
+        "description":"Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices.",
+        "details":"Website security can be a complex or even confusing topic in an ever-evolving landscape. This guide is meant to provide a clear framework for website owners seeking to mitigate risk and apply security principles to their web properties.Before we get started, it’s important to keep in mind that security is never a set-it-and-forge-it solution. Instead, we encourage you to think of it as a continuous process that requires constant assessment to reduce the overall risk.By applying a systematic approach to website security, we can think of it as an onion, with many layers of defense all coming together to form one piece. We need to view website security holistically and approach it with a defense in depth strategy."
+    },
+    {
+        "name":"House Security",
+        "id":2,
+        "logo":"https://i.ibb.co/cyqkCJx/heading-border.png",
+        "image":"https://i.ibb.co/PxGDWPN/cyber-security.png",
+        "description":"Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices.",
+        "details":"Website security can be a complex or even confusing topic in an ever-evolving landscape. This guide is meant to provide a clear framework for website owners seeking to mitigate risk and apply security principles to their web properties.Before we get started, it’s important to keep in mind that security is never a set-it-and-forge-it solution. Instead, we encourage you to think of it as a continuous process that requires constant assessment to reduce the overall risk.By applying a systematic approach to website security, we can think of it as an onion, with many layers of defense all coming together to form one piece. We need to view website security holistically and approach it with a defense in depth strategy."
+    },
+    {
+        "name":"Transport Security",
+        "id":3,
+        "logo":"https://i.ibb.co/cyqkCJx/heading-border.png",
+        "image":"https://i.ibb.co/0shfBL9/policeman.png",
+        "description":"Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices.",
+        "details":"Website security can be a complex or even confusing topic in an ever-evolving landscape. This guide is meant to provide a clear framework for website owners seeking to mitigate risk and apply security principles to their web properties.Before we get started, it’s important to keep in mind that security is never a set-it-and-forge-it solution. Instead, we encourage you to think of it as a continuous process that requires constant assessment to reduce the overall risk.By applying a systematic approach to website security, we can think of it as an onion, with many layers of defense all coming together to form one piece. We need to view website security holistically and approach it with a defense in depth strategy."
+    },
+    {
+        "name":"Private Security",
+        "id":4,
+        "logo":"https://i.ibb.co/cyqkCJx/heading-border.png",
+        "image":"https://i.ibb.co/Jxq3S7g/24-hours.png",
+        "description":"Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices.",
+        "details":"Website security can be a complex or even confusing topic in an ever-evolving landscape. This guide is meant to provide a clear framework for website owners seeking to mitigate risk and apply security principles to their web properties.Before we get started, it’s important to keep in mind that security is never a set-it-and-forge-it solution. Instead, we encourage you to think of it as a continuous process that requires constant assessment to reduce the overall risk.By applying a systematic approach to website security, we can think of it as an onion, with many layers of defense all coming together to form one piece. We need to view website security holistically and approach it with a defense in depth strategy."
+    },
+    {
+        "name":"Website Security",
+        "id":5,
+        "logo":"https://i.ibb.co/cyqkCJx/heading-border.png",
+        "image":"https://i.ibb.co/KhJjmv1/secure-data.png",
+        "description":"Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices.",
+        "details":"Website security can be a complex or even confusing topic in an ever-evolving landscape. This guide is meant to provide a clear framework for website owners seeking to mitigate risk and apply security principles to their web properties.Before we get started, it’s important to keep in mind that security is never a set-it-and-forge-it solution. Instead, we encourage you to think of it as a continuous process that requires constant assessment to reduce the overall risk.By applying a systematic approach to website security, we can think of it as an onion, with many layers of defense all coming together to form one piece. We need to view website security holistically and approach it with a defense in depth strategy."
+    },
+    {
+        "name":"CCTV Security",
+        "id":6,
+        "logo":"https://i.ibb.co/cyqkCJx/heading-border.png",
+        "image":"https://i.ibb.co/HdjtGh7/web-browser.png",
+        "description":"Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices.",
+        "details":"Website security can be a complex or even confusing topic in an ever-evolving landscape. This guide is meant to provide a clear framework for website owners seeking to mitigate risk and apply security principles to their web properties.Before we get started, it’s important to keep in mind that security is never a set-it-and-forge-it solution. Instead, we encourage you to think of it as a continuous process that requires constant assessment to reduce the overall risk.By applying a systematic approach to website security, we can think of it as an onion, with many layers of defense all coming together to form one piece. We need to view website security holistically and approach it with a defense in depth strategy."
+    }
+]
